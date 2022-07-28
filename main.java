@@ -39,7 +39,7 @@ public class burcBulma {
             if (day <= 20) System.out.println("Balık");
             else System.out.println("Koc");
         } else if (month == 4) {
-            if (day <= 20) System.out.println("Kocsun bi hossun yekbucuk");
+            if (day <= 20) System.out.println("Koc");
             else System.out.println("Boga");
         } else if (month == 5) {
             if (day <= 21) System.out.println("Boğa");
